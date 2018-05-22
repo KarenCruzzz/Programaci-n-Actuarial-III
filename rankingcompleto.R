@@ -34,6 +34,7 @@ rankingcompleto <- function(resultado, num = "mejor") {
                 lista<- rbind(lista, list(NA, estado))
                 print(estado)
                 next
+                
             }
             else resultado <- num
             
