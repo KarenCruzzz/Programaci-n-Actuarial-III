@@ -9,6 +9,7 @@ rankhospital <- function(estado, resultado, num = "best") {
     }
     else if(resultado == "falla") {
         columna <- 17
+        
     }
     else if(resultado == "neumonía") {
         columna <-23
