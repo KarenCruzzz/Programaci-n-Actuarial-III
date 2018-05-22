@@ -47,3 +47,6 @@ mediacontaminante<- function(directorio, contaminante, id=1:332){
     promedio
 }
     mediacontaminante(directorio,"sulfate",2)
+    
+    
+sum(7:9)
